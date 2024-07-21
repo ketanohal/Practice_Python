@@ -1,6 +1,6 @@
 
 ### Beginner Level (1-25)
-1. **Hello, World!**
+1. **Hello, World!** 
 2. **Sum of Two Numbers**
 3. **Maximum of Three Numbers**
 4. **Odd or Even**
